@@ -46,11 +46,11 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
-- ⚗️🍨 Old CNLS Website Test Zone  
-  [![Test CNLS Old Website](https://cnls.lanl.gov/External/images/cnls.png)](https://cnls.lanl.gov/External/){:style="background: none"}
-- 😁😊👍 Button Testing Section  
-  [![Button Test PT Colloquium](assets/Lydia_images/Button_Test.png).](https://p25ext.lanl.gov/schedule.php?type=coll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
+- ⚗️🍨 Old CNLS Website Test Zone     
+  [![Test CNLS Old Website](https://cnls.lanl.gov/External/images/cnls.png)](https://cnls.lanl.gov/External/){:style="background: none"}    
+- 😁😊👍 Button Testing Section
+  [![Button Test PT Colloquium](assets/Lydia_images/Button_Test.png)](https://p25ext.lanl.gov/schedule.php?type=coll){:style="background: none"}  
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}    
 - ⚗️💠 Netlify CMS starter kit  
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
 

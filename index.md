@@ -20,6 +20,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 ### As a GitHub Pages remote theme
 
+# testing after issue with not secure
+
 1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
 3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
